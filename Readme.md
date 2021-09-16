@@ -13,16 +13,17 @@ using potentiometer and is displayed in the serial moniter.
 | `4_Test_plan`      | Documents with test plans and procedures|
 | `5_Simulations`      | SimulIDE simulation file|
 
+## Final Implementation
 ![](https://github.com/dikshadutta1999/STEPin_SeatHeater/blob/main/5_Simulation/6.png)
 
-# Activities Description
+## Activities Description
 |Activity|Description|
 |:--:|:--:|
 |Activity 1| Blink the LED when the passenger is in the seat and the heater is pressed|
 |Activity 2| Convert the analog signal from the temperature sensor to the digital value|
 |Activity 3| Generate the PWM signal according to the converted digital value and print temperature value in serial moniter|
 
-# Assumptions
+## Assumptions
 * Switches are used to the realize the passenger in the seat and the press of the heater
 * The temperature sensor is realized using the potentiometer
 
