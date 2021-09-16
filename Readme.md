@@ -3,7 +3,6 @@ A seat heater is a pad or a cushion that encompasses an electric heating system 
 of the automotive seat at the will of the driver.
 In this project we firstly check if the heator is on and the person is seated. Then accordingly the Temperature is set 
 using potentiometer and is displayed in the serial moniter.
-![]()
 
 ## Folder Structure
 |Folder             | Description |
@@ -13,6 +12,8 @@ using potentiometer and is displayed in the serial moniter.
 | `3_Implementation` | All code and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
 | `5_Simulations`      | SimulIDE simulation file|
+
+![](https://github.com/dikshadutta1999/STEPin_SeatHeater/blob/main/5_Simulation/6.png)
 
 # Activities Description
 |Activity|Description|
