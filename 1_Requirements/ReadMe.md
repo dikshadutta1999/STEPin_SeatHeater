@@ -12,18 +12,6 @@ The main objectives of this project are:
 2. To implement various Car Seat Heating system.
 3. To build a simple hardware project.
 
-## ***4 W's and 1 H***
-## Who
-Anyone who uses car in low temperature. 
-## What
-This project is concerned about solving the seat temerature issue by using multifile.
-## When 
-Whenever we need to set the seat temperature.
-## Why
-As this project to solve the problem for country's with the low temperature.
-## How
-Implemented using simulide and codeblock with gcc compiler for AVR.
-
 ## SWOT ANALYSIS
 
 ### Strengths
@@ -38,7 +26,18 @@ Implemented using simulide and codeblock with gcc compiler for AVR.
 ### Threats
 - It can't be used for country having high temperature.
 - Heater should be turn off, otherwise seat would get hot enough to become uncomfortable to sit in.
-## Detail requirements
+- 
+## ***4 W's and 1 H***
+## Who
+Anyone who uses car in low temperature. 
+## What
+This project is concerned about solving the seat temerature issue by using multifile.
+## When 
+Whenever we need to set the seat temperature.
+## Why
+As this project to solve the problem for country's with the low temperature.
+## How
+Implemented using simulide and codeblock with gcc compiler for AVR.
 
 ## High Level Requirements
 
@@ -57,4 +56,4 @@ Implemented using simulide and codeblock with gcc compiler for AVR.
 | HLR2_LLR1   | ADC with PWM|
 | HLR3_LLR1   | Serial monitor and CRO|
 | HLR4_LLR1   | SimulIDE |
-| HLR4_LLR2   | Code Blocks with AVR GCC compiler |
+| HLR4_LLR2   | Code Blocks with gcc compiler for AVR |
