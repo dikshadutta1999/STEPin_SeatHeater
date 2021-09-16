@@ -1,6 +1,4 @@
 # CAR SEAT HEATER
-[![Cpp_Check](https://github.com/dikshadutta199/STEPin_SeatHeater/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/dikshadutta199/STEPin_SeatHeater/actions/workflows/cpp_check.yml)
-
 A seat heater is a pad or a cushion that encompasses an electric heating system which boosts up surface temperature 
 of the automotive seat at the will of the driver.
 In this project we firstly check if the heator is on and the person is seated. Then accordingly the Temperature is set 
@@ -30,8 +28,5 @@ using potentiometer and is displayed in the serial moniter.
 
 
 #### CI and Code Quality
-
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Build](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/build.yml/badge.svg)](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/build.yml)|[![Cpp_Check](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Manikanta489/EmbeddedC_stepin256240/actions/workflows/cpp_check.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5facfbcad3a46f283b859d701dbe235)](https://www.codacy.com/gh/Manikanta489/EmbeddedC_stepin256240/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Manikanta489/EmbeddedC_stepin256240&amp;utm_campaign=Badge_Grade)
-
+<img src="https://www.code-inspector.com/project/27805/score/svg" />
+<img src="https://www.code-inspector.com/project/27805/status/svg" />
