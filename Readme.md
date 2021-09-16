@@ -1,4 +1,6 @@
 # CAR SEAT HEATER
+[![Cpp_Check](https://github.com/dikshadutta199/STEPin_SeatHeater/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/dikshadutta199/STEPin_SeatHeater/actions/workflows/cpp_check.yml)
+
 A seat heater is a pad or a cushion that encompasses an electric heating system which boosts up surface temperature 
 of the automotive seat at the will of the driver.
 In this project we firstly check if the heator is on and the person is seated. Then accordingly the Temperature is set 
