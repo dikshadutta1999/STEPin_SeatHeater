@@ -29,5 +29,5 @@ using potentiometer and is displayed in the serial moniter.
 
 
 #### Code Quality
-<img src="https://www.code-inspector.com/project/27805/score/svg" />
-<img src="https://www.code-inspector.com/project/27805/status/svg" />
+![Code Quality Score](https://www.code-inspector.com/project/29061/score/svg)
+![Code Grade](https://www.code-inspector.com/project/29061/status/svg)
