@@ -11,7 +11,7 @@ using potentiometer and is displayed in the serial moniter.
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
-| `5_Simulations`      | SimulIDE simulation file|
+| `5_Simulations`      | Simulation in SimulIDE |
 
 ## Final Implementation
 ![](https://github.com/dikshadutta1999/STEPin_SeatHeater/blob/main/5_Simulation/6.png)
