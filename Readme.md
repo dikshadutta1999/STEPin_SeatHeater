@@ -28,6 +28,6 @@ using potentiometer and is displayed in the serial moniter.
 * The temperature sensor is realized using the potentiometer
 
 
-#### Code Quality
+#### Code Inspector
 ![Code Quality Score](https://www.code-inspector.com/project/29061/score/svg)
 ![Code Grade](https://www.code-inspector.com/project/29061/status/svg)
